@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:gravity="center"
+    tools:context="Tab_Layout_practice.Frag_1">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/uu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Frag:-1"
+        android:background="#D11111"
+        android:textSize="44sp" />
+
+</LinearLayout>
